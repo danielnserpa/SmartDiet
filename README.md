@@ -1,12 +1,8 @@
 # SmartDiet
 Final Project for Higher Diploma in Science in Computing @ National College of Ireland
 
-The project is a full stack Java web application that allows the user to input some personal information and get different health metrics* as output. On top of that, the user will be able to get a ready-to-follow diet plans based on its goal and total daily energy expenditure (TDEE).
+●	Developed a full-stack Java web application to provide personalized nutritional guidance;
+●	Stored user data in a relational database and dynamically calculated health metrics based on goals;
+●	Delivered a user-friendly interface for tracking fitness and dietary objectives, enhancing client engagement.
 
-The presented health metrics are: basal metabolic rate (BMR), total daily energy expenditure (TDEE), body mass index (BMI), recommended daily water intake and hip-to-waist ratio.
-
-The chosen technologies were:
-
-Backend - Java and Springboot
-Database - MySQL
-Frontend - HTML, CSS, JavaScript
+Technologies Used: Spring Boot, MySQL, Java, HTML, CSS, JavaScript.
