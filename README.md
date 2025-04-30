@@ -21,7 +21,7 @@ Diet Smart is a simple, user-friendly app designed to help users manage their di
 ## Technologies Used
 
 - **Spring Boot**: The backend framework for the application.
-- **Spring Data JPA**: For data persistence.
+- **Spring Data JPA/MySQL**: For data persistence.
 - **Thymeleaf**: For rendering dynamic HTML views.
 - **HTML/CSS**: For basic frontend styling and layout.
 - **JavaScript**: For handling form logic (e.g., storing email in local storage, password validation).
