@@ -5,9 +5,18 @@ Diet Smart is a simple, user-friendly app designed to help users manage their di
 ## Features
 
 - **User Registration**: Users can sign up by providing their email, first name, last name, and password.
+   
 - **User Login**: Registered users can log in using their email and password.
-- **Diet Plan**: Upon login, users can access a ready-to-follow diet plan, which is personalized for them.
-- **Password Reset**: If a user forgets their password, they can request a reset.
+
+- **Diet Plan**: Upon login, users can access a ready-to-follow diet plan, which is personalized for them by professional nutritionists.
+
+- **Password Reset**: If a user forgets their password, they can request a password reset.
+
+- **Health Metrics**: Users can track various health metrics on their dashboard, including:
+   - Daily calorie intake
+   - Macronutrient breakdown (carbs, proteins, fats)
+   - Recommended daily water intake
+   - Progress tracking for weight loss or muscle gain
 
 ## Technologies Used
 
@@ -65,8 +74,12 @@ After running the application, you can access it at http://localhost:8080.
 
 2. **Register**: Users enter their email, name, and password to create an account.
 
-3. **Log In**: Users enter their credentials (email and password) to log in.
+3. **Log In**: Registered users enter their credentials (email and password) to log in.
 
-4. **Dashboard**: After login, users are directed to a page with their personalized diet plan, made by professional nutritionists.
+4. **Complete Profile**: Upon first login, users are prompted to complete their profile by entering personal details such as age, weight, height, and fitness goals.
 
+5. **Dashboard**: After completing their profile, users are directed to their dashboard, where they can view their personalized diet plan, made by professional nutritionists based on the information provided.
+
+## 🙋 Author
+Made by Daniel Nascimento
 
