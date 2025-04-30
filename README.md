@@ -43,17 +43,17 @@ Ensure the following are installed on your system:
 
 2. **Navigate to the Project Directory**
 ```bash
-cd diet-smart-app
+   cd diet-smart-app
 ```
 
 3. **Build the Project
 ```bash
-mvn clean instal
+   mvn clean instal
 ```
 
 4. **Run the Application**
 ```bash
-mvn spring-boot:run
+   mvn spring-boot:run
 ```
 
 After running the application, you can access it at http://localhost:8080.
