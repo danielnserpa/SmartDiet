@@ -42,19 +42,16 @@ Ensure the following are installed on your system:
    git clone https://github.com/yourusername/diet-smart-app.git
 
 2. **Navigate to the Project Directory**
-```bash
+   ```bash
    cd diet-smart-app
-```
 
 3. **Build the Project
-```bash
+   ```bash
    mvn clean instal
-```
 
 4. **Run the Application**
-```bash
+   ```bash
    mvn spring-boot:run
-```
 
 After running the application, you can access it at http://localhost:8080.
 
